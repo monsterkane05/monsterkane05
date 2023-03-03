@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monsterkane05
-- 👀 I’m interested in Unreal Engine 4 and C# Programming
-- 🌱 I’m currently learning C++ and C# WPF
-- 💞️ I’m looking to collaborate on Point Of Sales Applications 
+- 👀 I’m interested in C# ASP.NET Applications
+- 🌱 I’m currently learning C# and C++
+- 💞️ I’m looking to collaborate on Business Web Apps
 - 📫 How to reach me kanepartridge@gigatechstudios.com
 
 <!---
