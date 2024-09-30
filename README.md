@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @monsterkane05
-- 🌱 I’m currently learning C# and C++
+-  Hi, I’m @monsterkane05
+-  I am proficent in C#, ASP.NET Core and WPF 
+-  Im currently learning C++ for the development of game engines and high performant applicaitons.
 
 
 <!---
