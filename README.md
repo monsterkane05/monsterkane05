@@ -1,6 +1,6 @@
 -  Hi, I’m @monsterkane05
 -  I am proficent in C#, ASP.NET Core and WPF 
--  Im currently learning C++ for the development of game engines and high performant applicaitons.
+-  Im currently learning C++ for the development of game engines and high performane applicaitons.
 
 
 <!---
